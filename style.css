@@ -1,3 +1,10 @@
 body {
   background: #323975;
 }
+
+.fa-snowflake {
+  animation: fall linear forwards;
+  color: #fff;
+  position: absolute;
+  top: -20px;
+}
