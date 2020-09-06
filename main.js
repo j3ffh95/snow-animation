@@ -1,3 +1,5 @@
+// setInterval(createSnowflake, 100);
+
 function createSnowflake() {
   const snow_flake = document.createElement("i");
   snow_flake.classList.add("fas");
