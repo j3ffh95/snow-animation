@@ -5,6 +5,10 @@ function createSnowflake() {
   snow_flake.style.left = Math.random() * window.innerWidth + "px";
 
   document.body.appendChild(snow_flake);
+
+  setTimeout(() => {
+    snow_flake.remove();
+  }, 5000);
 }
 
 createSnowflake();
