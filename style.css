@@ -3,7 +3,7 @@ body {
 }
 
 .fa-snowflake {
-  animation: fall 5s linear forwards;
+  /* animation: fall 5s linear forwards; */
   color: #fff;
   position: absolute;
   top: -20px;
