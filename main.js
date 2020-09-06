@@ -1,4 +1,4 @@
-// setInterval(createSnowflake, 100);
+setInterval(createSnowflake, 100);
 
 function createSnowflake() {
   const snow_flake = document.createElement("i");
