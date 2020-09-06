@@ -6,7 +6,7 @@ body {
   /* animation: fall 5s linear forwards; */
   color: #fff;
   position: absolute;
-  top: -20px;
+  /* top: -20px; */
 }
 
 @keyframes fall {
